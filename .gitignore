@@ -20,3 +20,6 @@ saved_models/
 # macOS / Windows
 .DS_Store
 Thumbs.db
+
+# Temp Files
+scratch/
