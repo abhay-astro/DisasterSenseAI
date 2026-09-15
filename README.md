@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # DisasterSenseAI
 
@@ -245,4 +245,3 @@ MIT — see [LICENSE](LICENSE).
 - [Hugging Face](https://huggingface.co) for pretrained models and Trainer
 - [Cardiff NLP](https://github.com/cardiffnlp) for Twitter-RoBERTa
 - [Microsoft](https://github.com/microsoft/DeBERTa) for DeBERTa-v3
-]]>
